@@ -15,7 +15,7 @@ Inclusi progetti, prove demo ed esercizi svolti.<br />
 
 Riassunto completo del corso in preparazione all'esame, contenuti infrastutture pubblica amministrazione e Codice Amministrazione Digitale.
 
-###  Governo Digitale [➡️](./Data%20Science)
+###  Data Science [➡️](./Data%20Science)
 
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
